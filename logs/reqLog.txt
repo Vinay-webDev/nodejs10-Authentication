@@ -126,3 +126,5 @@
 20240922	00:16:54	56463507-91f3-4009-bfa4-cb88c236be3a	GET	undefined	/favicon.ico
 20240922	00:19:20	0bc5fe56-7c4e-4535-9790-5a160555c9eb	POST	undefined	/register
 20240922	00:23:40	4cd03a53-e9bc-4512-b23f-60133f7ab853	POST	undefined	/register
+20240922	01:03:27	c9cb0cc6-dc9e-4417-956e-f8110f37f16c	POST	undefined	/register
+20240922	01:04:33	a225fa16-f759-440a-abb4-a03e84348b22	POST	undefined	/register
