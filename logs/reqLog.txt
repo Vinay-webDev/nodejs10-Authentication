@@ -128,3 +128,10 @@
 20240922	00:23:40	4cd03a53-e9bc-4512-b23f-60133f7ab853	POST	undefined	/register
 20240922	01:03:27	c9cb0cc6-dc9e-4417-956e-f8110f37f16c	POST	undefined	/register
 20240922	01:04:33	a225fa16-f759-440a-abb4-a03e84348b22	POST	undefined	/register
+20240922	01:31:52	8d298f06-af5c-441b-8d7f-4976eb2a324f	POST	undefined	/register
+20240922	01:32:11	bb870819-3cce-4476-b88f-aa9d7f5df41b	POST	undefined	/auth
+20240922	01:33:11	8978f14e-3f98-4ad7-9b4b-49744946ab6c	POST	undefined	/register
+20240922	01:34:36	4c297114-f6be-4d45-8dee-de08f005497c	GET	undefined	/auth
+20240922	01:34:48	c75a3397-23e0-47ff-8447-690025c411ec	POST	undefined	/auth
+20240922	01:35:22	71378f81-3e02-4093-98e1-43ed0c8cdbdc	POST	undefined	/auth
+20240922	01:35:38	02201ed3-7e31-48fa-b07d-e24af881521c	POST	undefined	/auth
