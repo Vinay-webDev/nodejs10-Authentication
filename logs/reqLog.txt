@@ -121,3 +121,8 @@
 20240921	14:44:33	b00709f8-9568-4ff3-93dd-edddfa027aba	GET	undefined	/employees/1
 20240921	14:47:08	fdfae1d2-b797-4567-bcdf-2062a8476db3	GET	undefined	/employees/1
 20240921	14:47:21	e2b52581-eda2-4ad0-a541-700a83db4f80	GET	undefined	/employees/1
+20240922	00:16:51	91f04ccc-a66f-4e18-8cc3-a564714be3d4	GET	undefined	/
+20240922	00:16:51	22df1863-d528-4f6d-97fc-c6a346369ed3	GET	undefined	/css/style.css
+20240922	00:16:54	56463507-91f3-4009-bfa4-cb88c236be3a	GET	undefined	/favicon.ico
+20240922	00:19:20	0bc5fe56-7c4e-4535-9790-5a160555c9eb	POST	undefined	/register
+20240922	00:23:40	4cd03a53-e9bc-4512-b23f-60133f7ab853	POST	undefined	/register

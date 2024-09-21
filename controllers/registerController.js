@@ -13,7 +13,7 @@ const bcrypt = require('bcrypt');
 // now we need to install a dependency called bcrypt which will do hash , salt passwords
 //===>> npm i bcrypt
 /////////////
-const handleNewUsers = async(req, res) => {
+const handleNewUser = async(req, res) => {
     //[1] destructuring 
     //1. so our user requrests is going to have a username and a password
     //2. so now we need to destructure or I say extract the user and pwd***
@@ -46,7 +46,7 @@ const handleNewUsers = async(req, res) => {
 }
 
 
-module.exports = { handleNewUsers };
+module.exports = { handleNewUser };
 
 
 
